@@ -1,0 +1,7 @@
+src
+.vscode
+.eslintignore
+.eslintrc.cjs
+tsconfig.json
+assets
+node_modules
