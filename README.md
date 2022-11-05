@@ -1,3 +1,6 @@
+> :warning: 
+> Even though I personally use this, it's still a work in progress. Use at your own risk.
+
 # 🎨 Matr NFT Art & Metadata Generator
 
 Generate Solana NFT artwork and Metaplex metadata with a single command.
